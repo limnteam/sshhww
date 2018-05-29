@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sshhww</string>
+    <string name="check_file_exist">检查文件状态</string>
+    <string name="add_or_update">添加/更新</string>
+    <string name="title">检测结果</string>
+    <string name="ok">确定</string>
+    <string name="dialog_update">修改</string>
+    <string name="dialog_delete">删除</string>
+    <string name="dialog_cancel">取消</string>
+</resources>
